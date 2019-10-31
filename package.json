@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/aidai524/git-practice#readme",
   "devDependencies": {
-    "cz-conventional-changelog": "^3.0.2",
+    "cz-conventional-changelog": "3.0.2",
     "ghooks": "^2.0.4",
     "validate-commit-msg": "^2.14.0"
   },
